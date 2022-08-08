@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="000956c6-9603-4530-abd9-d2f30f3cb5af" name="Changes" comment="@Service">
+    <list default="true" id="000956c6-9603-4530-abd9-d2f30f3cb5af" name="Changes" comment="&quot;adding new&quot; functional">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/controller/MainController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/dao/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/dao/EmployeeDAO.java" afterDir="false" />
@@ -17,6 +17,7 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/service/EmployeeService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/service/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/service/EmployeeServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/employee-info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/employee-info.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +180,7 @@
       <updated>1659975929288</updated>
       <workItem from="1659975930481" duration="726000" />
       <workItem from="1659976668196" duration="1364000" />
-      <workItem from="1659978042985" duration="2557000" />
+      <workItem from="1659978042985" duration="5337000" />
     </task>
     <task id="LOCAL-00001" summary="main view">
       <created>1659979270372</created>
@@ -195,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659979709277</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;adding new&quot; functional">
+      <created>1659980799572</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659980799572</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +223,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main view" />
     <MESSAGE value="@Service" />
-    <option name="LAST_COMMIT_MESSAGE" value="@Service" />
+    <MESSAGE value="&quot;adding new&quot; functional" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;adding new&quot; functional" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
