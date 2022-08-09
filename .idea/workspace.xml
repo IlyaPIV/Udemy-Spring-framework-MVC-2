@@ -9,14 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="000956c6-9603-4530-abd9-d2f30f3cb5af" name="Changes" comment="&quot;update&quot; functional">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/dao/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/dao/EmployeeDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/dao/EmployeeDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/dao/EmployeeDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/service/EmployeeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/service/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/spring/mvc_hibernate_aop/service/EmployeeServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" afterDir="false" />
+    <list default="true" id="000956c6-9603-4530-abd9-d2f30f3cb5af" name="Changes" comment="&quot;delete&quot; functional">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -180,7 +175,7 @@
       <workItem from="1659975930481" duration="726000" />
       <workItem from="1659976668196" duration="1364000" />
       <workItem from="1659978042985" duration="5650000" />
-      <workItem from="1660064441640" duration="820000" />
+      <workItem from="1660064441640" duration="1356000" />
     </task>
     <task id="LOCAL-00001" summary="main view">
       <created>1659979270372</created>
@@ -210,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659985259448</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&quot;delete&quot; functional">
+      <created>1660065289948</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660065289948</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +234,8 @@
     <MESSAGE value="@Service" />
     <MESSAGE value="&quot;adding new&quot; functional" />
     <MESSAGE value="&quot;update&quot; functional" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;update&quot; functional" />
+    <MESSAGE value="&quot;delete&quot; functional" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;delete&quot; functional" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
